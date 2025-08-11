@@ -1,0 +1,15 @@
+
+**Database Name: internetbanking**
+
+**Admin Login Details**
+
+Email	: admin@mail.com
+Password: codeastro.com
+
+
+**Staff Login Details**
+
+Email	: staff@mail.com
+Password: codeastro.com
+
+
